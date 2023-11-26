@@ -17,6 +17,6 @@ Head over to https://vitejs.dev/ to learn more about using vite
 > This project is The World's Most Annoying Form, whatever you type or write this will come just its own name, lasname, and email.
 
 
-![form image](image.png)
+![form image](./images/image.png)
 
-![form image](image-1.png)
+![form image](./images/image-1.png)
