@@ -1,0 +1,171 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: auto;
+	margin: 0;
+	padding: 20px 0;
+	background: #8B728E
+}
+
+h1 {
+	font-size: 35px;
+	text-align: center;
+	color: black;
+	margin-bottom: 40px;
+	font-family: 'Comic Neue', cursive;
+	padding: 0 30px;
+}
+
+form {
+	border: 1px solid black;
+	background-image: linear-gradient(to bottom, #c3e1fc, #bcd9f4, #b5d1eb, #afcae3, #a8c2db);
+	font-family: Arial, Helvetica, sans-serif;
+	margin: auto;
+	padding: 20px;
+	width: 400px;
+	border-radius: 30px;
+}
+
+fieldset {
+	border: 2px solid ghostwhite;
+	border-radius: 5px;
+	background: #22222222;
+	margin: 30px;
+	width: 300px;
+}
+
+legend {
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background: #3A4858;
+	color: white;
+	border-radius: 10px;
+}
+
+
+input[type="text"],
+input[type="email"] {
+	margin-left: 35px;
+	margin-bottom: 15px;
+	width: 290px;
+	height: 30px;
+	text-indent: 10px;
+	border: 1px solid #444;
+	border-radius: 5px;
+	display: block;
+}
+
+input[type="radio"] {
+	margin-right: 0.75rem;
+	margin-bottom: 1em
+}
+
+input[type="checkbox"] {
+	position: absolute;
+	opacity: 0;
+	cursor: pointer;
+	height: 0;
+	border-radius: 5px;
+}
+
+.privacy-container {
+	display: flex;
+	flex-direction: column;
+	padding-left: 20px;
+}
+
+select {
+	margin-left: 20px;
+	border-radius: 10px;
+	width: 40px;
+	height: 30px;
+	text-align: center;
+	margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.marketing-label input {
+	margin-right: 20px;
+}
+
+.marketing-label {
+	display: block;
+	width: 160px;
+	display: block;
+	position: relative;
+	cursor: pointer;
+	font-size: 20px;
+	user-select: none;
+	border-radius: 5px;
+	margin: auto;
+}
+
+.marketing-label span {
+	position: absolute;
+	font-size: 15px;
+	top: 0;
+	left: 5px;
+	width: 200px;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+	position: relative;
+	top: 2px;
+	left: -35px;
+	height: 1.3em;
+	width: 1.3em;
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+/* When the checkbox is checked, add a blue background */
+.marketing-label input:checked~.checkmark {
+	transition: all 0.2s;
+	opacity: 1;
+	background-image: linear-gradient(45deg, rgb(100, 61, 219) 0%, rgb(217, 21, 239) 100%);
+}
+
+.marketing-label input~.checkmark {
+	transition: all 0.2s;
+	opacity: 1;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+	content: "";
+	position: absolute;
+	opacity: 0;
+	transition: all 0.2s;
+}
+
+/* Show the checkmark when checked */
+.marketing-label input:checked~.checkmark:after {
+	opacity: 1;
+	transition: all 0.2s;
+}
+
+/* Style the checkmark/indicator */
+.marketing-label .checkmark:after {
+	left: 0.45em;
+	top: 0.25em;
+	width: 0.25em;
+	height: 0.5em;
+	border: solid white;
+	border-width: 0 0.15em 0.15em 0;
+	transform: rotate(45deg);
+}
+
+button {
+	margin: 25px 0 10px 135px;
+	width: 100px;
+	height: 50px;
+	border-radius: 10px;
+}
+
+.move {
+	margin-left: 250px;
+}

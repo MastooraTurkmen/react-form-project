@@ -1,0 +1,10 @@
+You may receive one of the following error messages: 
+
+    Warning: Select elements must be either controlled or uncontrolled (specify either the value prop, or the defaultValue prop, but not both). Decide between using a controlled or uncontrolled select element and remove one of these props.
+    
+        or
+    
+    Warning: App contains an input of type radio with both checked and defaultChecked props. Input elements must be either controlled or uncontrolled (specify either the checked prop, or the defaultChecked prop, but not both). Decide between using a controlled or uncontrolled input element and remove one of these props. 
+    
+To resolve this issue, just read the warning messages and think about what they're telling us we need to do, given the fact that we've already decided we want to use controlled elements! Just do what they say! 
+

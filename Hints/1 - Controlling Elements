@@ -1,0 +1,3 @@
+When we talk about the elements of a form being controlled, we mean that their values or checked status are controlled by state. (Remember that some elements, like text inputs, are controlled via their value properties, while others, like checkboxes, are controlled by their checked properties.  
+
+For an overview of what this means in practice, see: https://react.dev/reference/react-dom/components/input#controlling-an-input-with-a-state-variable
