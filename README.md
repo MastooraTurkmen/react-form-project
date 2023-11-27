@@ -20,4 +20,6 @@ https://the-world-most-annoying-form.netlify.app/
 
 ![form image](./images/image.png)
 
++ Here you can't select No :-(
+
 ![form image](./images/image-1.png)
