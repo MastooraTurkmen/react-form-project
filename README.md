@@ -16,7 +16,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 https://the-world-most-annoying-form.netlify.app/
 
-> This project is The World's Most Annoying Form, whatever you type or write this will come just its own name, lasname, and email.
+> This project is The World's Most Annoying Form, whatever you type or write this will come just its own name, last name, and email.
 
 ![form image](./images/image.png)
 
