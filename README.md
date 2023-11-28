@@ -39,4 +39,5 @@ Head over to https://vitejs.dev/ to learn more about using vite
 $ git clone https://github.com/MastooraTurkmen/react-form-project.git
 
 # Go inside the repository
+$ cd react-form-project
 ```
