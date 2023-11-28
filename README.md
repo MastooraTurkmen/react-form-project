@@ -21,13 +21,12 @@ Quick start:
 $ npm install
 $ npm run dev
 $ npm start
-
 ```
 
 ```
 $ pnpm install
 $ pnpm run dev
-
+$ pnpm start
 ```
 
 
