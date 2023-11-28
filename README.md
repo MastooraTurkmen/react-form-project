@@ -13,6 +13,8 @@ https://the-world-most-annoying-form.netlify.app/
 ------
 
 
+## Before you Begin 🛠 🔨
+
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
 Quick start:
