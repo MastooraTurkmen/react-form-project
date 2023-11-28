@@ -41,3 +41,7 @@ $ git clone https://github.com/MastooraTurkmen/react-form-project.git
 # Go inside the repository
 $ cd react-form-project
 ```
+
+
+## Languages and Tools are used
+
