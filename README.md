@@ -42,6 +42,8 @@ $ git clone https://github.com/MastooraTurkmen/react-form-project.git
 $ cd react-form-project
 ```
 
+------
+
 
 ## Languages and Tools are used
 
@@ -58,3 +60,9 @@ $ cd react-form-project
     + [VSCode](https://github.com/topics/vscode)
     + [Figma](https://github.com/topics/figma)
     + [Netlify](https://github.com/topics/netlify)
+
+
+
+------
+
+
