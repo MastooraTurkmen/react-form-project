@@ -66,6 +66,9 @@ $ cd react-form-project
 
 ## Deployment 📥
 
+1. How to deploy our project to the Netlify site?
+
+
 
 ------
 
