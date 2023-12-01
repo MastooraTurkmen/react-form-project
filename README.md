@@ -93,4 +93,4 @@ Currently, two official plugins are available:
 **Mastoora Turkmen**   
 
 [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
-[Github]
+[Github](https://github.com/MastooraTurkmen/) 
