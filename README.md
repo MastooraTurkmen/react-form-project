@@ -92,4 +92,4 @@ Currently, two official plugins are available:
 
 **Mastoora Turkmen**   
 
-[LinkedIn]
+[LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
