@@ -92,8 +92,8 @@ Currently, two official plugins are available:
 
 **Mastoora Turkmen**   
 <br>
-1. [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
+[LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
 <br>
-2. [Github](https://github.com/MastooraTurkmen/) 
+[Github](https://github.com/MastooraTurkmen/) 
 <br>
 [Twitter](https://twitter.com/MastooraJ22)
